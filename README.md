@@ -11,4 +11,4 @@ Downlaod the ful excel dashboard
 The complete interactive Excel file (with all sheets, pivots, and slicers) can be downloaded here;
 [Download from Google Drive](https://docs.google.com/spreadsheets/d/15cYZfTPAhUzwzBj_AjXBojdDi4XF6IKR/edit?usp=drive_link&ouid=105453260144100514517&rtpof=true&sd=true)
 
-![Superstore Data Analysis Dashboard](Superstore_data_analysis_dashboard.png)
+![Superstorexx Dashboard](superstorexx_dashboard.png)
