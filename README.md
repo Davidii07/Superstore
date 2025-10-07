@@ -6,4 +6,4 @@ I imported the dataset into my excel since its an excel workbook file,
 Moved on to transforming it on power query,
 Used pivot table to make useful analysis,
 Created a dashboard to make aid easy understanding.
-![superstore dashboard](superstorexx_dashboard.png)
+![superstorexx dashboard](superstorexx_dashboard.png)
